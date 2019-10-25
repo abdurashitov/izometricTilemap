@@ -4,6 +4,7 @@ using UnityEngine;
 using UnityEngine.Tilemaps;
 using UnityEngine.UI;
 
+
 public class TilemapContorller : MonoBehaviour
 {
     public Text txt;
